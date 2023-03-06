@@ -2,5 +2,6 @@
 layouts compatible with [QMK configurator](https://qmk.fm/)
 
 ### Other useful
-http://www.keyboard-layout-editor.com
-https://www.reddit.com/r/MechanicalKeyboards/
+[keyboard-layout-editor.com](http://www.keyboard-layout-editor.com/)
+[r/MechanicalKeyboards](https://www.reddit.com/r/MechanicalKeyboards/)
+[r/olkb](https://www.reddit.com/r/olkb/)
